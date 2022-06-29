@@ -1,2 +1,2 @@
-## Background Changer Script
-Python script that changes the background to a scary image and prevents setting a different image while the script is running. 
+## Message spammer
+Python script that, after a small delay, types out text from spam-text.txt line by line, hitting enter after each line.
