@@ -1,2 +1,2 @@
-## Message spammer
-Python script that, after a small delay, types out text from spam-text.txt line by line, hitting enter after each line.
+## Desktop Image Flood
+Batch script that continuously downloads a scary image flooding the whole desktop.
